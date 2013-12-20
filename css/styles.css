@@ -1,0 +1,28 @@
+body {
+  color: #333;
+  font-family: lato;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: lato;
+}
+
+h1 {
+  font-weight: bold;
+}
+
+.navbar {
+    background: #0e69aa;
+    border-bottom: 0;
+}
+
+
+.navbar-inverse .navbar-brand {
+  color: #fff;
+}
+
+.jumbotron {
+  padding-top: 5em;
+  background: #fff url('../img/URBAN GREEN-01.jpg');
+  background-size: 100% auto;
+}
